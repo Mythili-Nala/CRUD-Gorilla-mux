@@ -1,4 +1,5 @@
 # CRUD-Gorilla-mux
+Cliches details
 
 The CRUD web application supports the four CRUD (Create, Read, Update and Delete) operations, which matches the following four HTTP request methods respectively:
 1. POST
